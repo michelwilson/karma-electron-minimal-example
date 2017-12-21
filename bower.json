@@ -1,0 +1,13 @@
+{
+  "name": "minimal-example",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular-loader": "1.6.3",
+    "angular": "1.6.3"
+  },
+  "main": "src/index.html"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "minimal-example",
+  "title": "Minimal Example",
+  "author": "Michel Wilson",
+  "private": true,
+  "devDependencies": {
+    "angular-mocks": "1.6.3",
+    "bower": "^1.7.6",
+    "electron": "^1.7.9",
+    "event-stream": "^3.3.4",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.7.1",
+    "karma-electron": "^5.2.2",
+    "karma-jasmine": "^0.3.7",
+    "karma-script-launcher": "^0.2.0",
+    "karma-spec-reporter": "^0.0.24",
+    "ng-midway-tester": "^2.0.5"
+  },
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  }
+}
